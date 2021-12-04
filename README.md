@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MansurDev
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Flutter, JS & UI/UX Design
 
 
 <!---
